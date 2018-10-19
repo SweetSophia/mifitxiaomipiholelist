@@ -6,7 +6,8 @@ Experimental Block List for PiHole to block the countless URL connections made b
 Examples:
 weibo
 umeng
-qq
+qqc
+amap
 
 
 https://raw.githubusercontent.com/SweetSophia/mifitxiaomipiholelist/master/mifitblocklist.txt
