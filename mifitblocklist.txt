@@ -4,6 +4,7 @@
 apiinit.amap.com
 apilocate.amap.com
 apimanifest.amap.com
+mpsapi.amap.com
 logs.amap.com
 mm.amap.com
 cgicol.amap.com
@@ -11,7 +12,6 @@ wap.amap.com
 abroad.apilocate.amap.com
 apilocatesrc.amap.com
 grid.amap.com
-restapi.amap.com
 restapi.amap.com
 m5.amap.com
 adiu.amap.com
@@ -40,3 +40,17 @@ api.weibo.com
 bugtags.com
 openmobile.qq.com
 edu.hebnews.cn
+graph.*.facebook.com/network_ads_common
+f.hiphotos.baidu.com
+www.xxx.xxx.bucket
+cdn.awsbj0.fds.api.mi-img.com
+googleads.g.doubleklick.net
+api.faceid.com
+api.weibo.cn
+long.open.weixin.qq.com
+wspeed.qq.com
+d.ifengimg.com
+img.mp.itc.cn
+www.51modo.cc
+api.meishesdk.com
+h5.m.taobao.com
