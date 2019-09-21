@@ -51,6 +51,5 @@ long.open.weixin.qq.com
 wspeed.qq.com
 d.ifengimg.com
 img.mp.itc.cn
-www.51modo.cc
 api.meishesdk.com
 h5.m.taobao.com
