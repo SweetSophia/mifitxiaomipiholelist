@@ -11,8 +11,6 @@ weibo
 umeng
 qq
 
-
-
+Copy this into your Blocklist:
 https://raw.githubusercontent.com/SweetSophia/mifitxiaomipiholelist/master/mifitblocklist.txt
 
-Will be updated in September 2019 due to the release of Mi Band 4 .
