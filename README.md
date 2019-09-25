@@ -10,6 +10,8 @@ Examples:
 weibo
 umeng
 qq
+amap
+etc.
 
 Copy this into your Blocklist:
 https://raw.githubusercontent.com/SweetSophia/mifitxiaomipiholelist/master/mifitblocklist.txt
