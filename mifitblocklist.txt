@@ -40,11 +40,9 @@ api.weibo.com
 bugtags.com
 openmobile.qq.com
 edu.hebnews.cn
-graph.*.facebook.com/network_ads_common
 f.hiphotos.baidu.com
 www.xxx.xxx.bucket
 cdn.awsbj0.fds.api.mi-img.com
-googleads.g.doubleklick.net
 api.faceid.com
 api.weibo.cn
 long.open.weixin.qq.com
