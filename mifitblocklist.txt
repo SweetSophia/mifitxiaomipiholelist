@@ -31,7 +31,6 @@ oc.umeng.co
 oc.umeng.com
 paopaotuan.org
 pingma.qq.com
-plus.google.com
 qzs.qq.com
 service.weibo.com
 widget.weibo.com
