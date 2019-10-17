@@ -7,7 +7,7 @@ Block List for PiHole to block the countless connections made by the MiFit App t
 Note: I won't add Xiaomi/Huami connections to the list (like api-mifit-de.huami.com ), as Xiaomi apps won't be able function properly then. This list is for unwanted connections to third-party Chinese services
 
 Examples:
-amao
+amap
 umeng
 qq
 weibo
