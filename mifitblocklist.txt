@@ -1,6 +1,7 @@
 ## SweetSophia mifitxiaomipiholelist
 10.237.12.17
 10.99.168.145
+control.aps.amap.com
 apiinit.amap.com
 apilocate.amap.com
 apimanifest.amap.com
