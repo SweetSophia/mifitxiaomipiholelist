@@ -13,6 +13,8 @@ qq
 weibo
 etc.
 
+As of 11/17/2019, no new third party connections to Chinese services have been detected or found in the apk.
+
 Copy this into your Blocklist:
 https://raw.githubusercontent.com/SweetSophia/mifitxiaomipiholelist/master/mifitblocklist.txt
 
