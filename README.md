@@ -15,6 +15,8 @@ etc.
 
 As of 11/17/2019, no new third party connections to Chinese services have been detected or found in the apk.
 
+YOU'RE WELCOME TO CONTRIBUTE! I'll review your commits and may accept them.
+
 Copy this into your Blocklist:
 https://raw.githubusercontent.com/SweetSophia/mifitxiaomipiholelist/master/mifitblocklist.txt
 
