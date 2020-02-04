@@ -51,3 +51,9 @@ d.ifengimg.com
 img.mp.itc.cn
 api.meishesdk.com
 h5.m.taobao.com
+161.117.97.84
+114.54.23.116
+fr.app.chat.global.xiaomi.net
+tracking.intl.miui.com
+data.mistat.intl.xiaomi.com
+lb-im-11-1803639322.ap-southeast-1.elb.amazonaws.com
