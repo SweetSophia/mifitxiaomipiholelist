@@ -15,6 +15,8 @@ etc.
 
 As of 02/04/2020, no new third party connections to Chinese services have been detected or found in the apk.
 
+Update 2020/05/26: removed abroad.apilocate.amap.com so weather updates are working again. Add abroad.apilocate.amap.com to your blacklist if you need it blocked.
+
 YOU'RE WELCOME TO CONTRIBUTE! I'll review your commits and may accept them.
 
 Copy this into your Blocklist:
