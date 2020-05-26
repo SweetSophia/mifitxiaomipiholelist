@@ -10,7 +10,6 @@ logs.amap.com
 mm.amap.com
 cgicol.amap.com
 wap.amap.com
-abroad.apilocate.amap.com
 apilocatesrc.amap.com
 grid.amap.com
 restapi.amap.com
