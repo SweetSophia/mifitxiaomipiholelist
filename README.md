@@ -1,5 +1,5 @@
 # mifitxiaomipiholelist
-MiFit by Xiaomi PiHole Bock List
+MiFit by Xiaomi PiHole Block List
 
 Block List for PiHole to block the countless connections made by the MiFit App to Chinese webservices like amap, weibo, qq, etc. E.g. Mifit is constantly trying to connect to amap services, even if it's running in the background. Indicates that it is sending your location data to amap.
 
